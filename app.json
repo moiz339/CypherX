@@ -26,7 +26,7 @@
     "required": true 
   },
   "OWNER_NUMBER": {
-    "description":  (e.g., " 923198493662).",
+    "description":  "The primary owner's WhatsApp number, including country code (e.g., 2547XXXXXXXX).",
     "value": "",
     "required": false 
   },
