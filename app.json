@@ -1,7 +1,7 @@
 {
-  "name": "CypherX",
+  "name": "ToxicX",
   "version": "latest",
-  "description": "CypherX, the best WhatsApp Bot",
+  "description": "ToxicX, the best WhatsApp Bot",
   "logo": "https://i.ibb.co/Q4QCHYd/copilot-image-1739572393172.jpg",
   "keywords": ["whatsapp", "bot", "md"],
   "repository": "https://github.com/Dark-Xploit/CypherX",
@@ -21,27 +21,27 @@
     "required": false
   },
   "BOT_NAME": {
-    "description": "The display name of the bot as it will appear in interactions.",
-    "value": "CypherX",
-    "required": false
+    "description": "toxic.",
+    "value": "toxic",
+    "required": true 
   },
   "OWNER_NUMBER": {
-    "description": "The primary owner's WhatsApp number, including country code (e.g., 2547XXXXXXXX).",
+    "description":  (e.g., 923198493662).",
     "value": "",
     "required": true
   },
   "OWNER_NAME": {
-    "description": "The name of the primary owner of the bot.",
+    "description": "ToxicxMoiz .",
     "value": "",
     "required": true
   },
   "HEROKU_API_KEY": {
-    "description": "Heroku API key used for accessing and managing your Heroku app programmatically.",
+    "description": "HRKU-fffaa6fa-02f8-4d75-ad5c-0c9b8cedfe8c.",
     "value": "",
     "required": false
   },
   "HEROKU_APP_NAME": {
-    "description": "The exact name of your Heroku application that you've just entered above.",
+    "description": "moizxx3.",
     "value": "",
     "required": false
   },
