@@ -1,6 +1,6 @@
 //-------------------[ BOT SETTINGS ]------------------// 
 
-// @project_name : CypherX
+// @project_name : toxic 
 // @author : TYLOR
 // @youtube : https://www.youtube.com/@heyits_tylor
 // @instagram : heyits_tylor
