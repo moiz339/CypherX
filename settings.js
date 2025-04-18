@@ -1,15 +1,15 @@
 //-------------------[ BOT SETTINGS ]------------------// 
 
-// @project_name : CypherX
-// @author : TYLOR
-// @youtube : https://www.youtube.com/@heyits_tylor
-// @instagram : heyits_tylor
-// @telegram : t.me/heyits_tylor
+// @project_name : toxic 
+// @author : TOXIC
+// @youtube : https://www.youtube.com/@TREXMIGHTY
+// @instagram : evil_organizer
+// @telegram : Sycodevil62 
 // @github : Dark-Xploit
 // @tiktok : heyits_tylor
-// @whatsapp : +254754783972
+// @whatsapp : +923198493662
 
-//----------------------[ CYPHER-X ]----------------------//
+//----------------------[ TOXIC ]----------------------//
 
 const fs = require('fs')
 //File System module - because even bots need to read and write💁‍♂️
@@ -24,27 +24,27 @@ global.SESSION_ID = process.env.SESSION_ID || ''
 
 //--------------------[ BOT NAME ]----------------------//
 
-global.botname = process.env.BOT_NAME || 'CypherX' 
+global.botname = process.env.BOT_NAME || 'TOXIC' 
 // Pick a name for the bot. Default is "CypherX" — but who doesn’t love a cool bot name?
 
 //-----------------[ OWNER NUMBER ]------------------//
 
-global.ownernumber = process.env.OWNER_NUMBER || '254754783972' 
+global.ownernumber = process.env.OWNER_NUMBER || '923198493662' 
 // Your personal contact number. If you want to call Tylor, this is the number. 👀
 
 //-----------------[ OWNER NAME ]------------------//
 
-global.ownername = process.env.OWNER_NAME || 'Tylor' 
+global.ownername = process.env.OWNER_NAME || 'TOXIC' 
 // Set your name, currently it's the mastermind's. The one and only... Tylor. (Don't ask how I got here, it's a mystery.)
 
 //------------[ STICKER PACKNAME ]-----------------//
 
-global.packname = process.env.STICKER_PACK_NAME || "Cypher" 
+global.packname = process.env.STICKER_PACK_NAME || "Moiz" 
 // Time to decide the name for your sticker pack. This will appear every time you create a sticker. "Cypher" is the default because... well, why not?
 
 //--------------[ STICKER AUTHOR NAME ]------------//
 
-global.author = process.env.STICKER_AUTHOR_NAME || "X" 
+global.author = process.env.STICKER_AUTHOR_NAME || "Moiz" 
 // Who's the artist behind those epic stickers? You, of course! Unless you're just using the default name "X" – mystery vibes!
 
 //----------------------[ TIMEZONE ]--------------------//
@@ -59,12 +59,12 @@ global.postgresqls = process.env.DATABASE_URL || "";
 
 //-----------------[ CONTEXT LINK ]--------------------//
 
-global.plink = process.env.PLINK || "https://www.instagram.com/heyits_tylor?igsh=YzljYTk1ODg3Zg---"
+global.plink = process.env.PLINK || "https://www.instagram.com/evil_organizer?igsh=MTdpYXhmb2poemw4NQ=="
 // Where does the journey end? Maybe an Instagram link? Or WhatsApp link🤔 Or maybe just a placeholder. Who knows? 👀
 
 //------------------[ WATERMARK ]--------------------//
 
-global.wm = process.env.GL_WM || "©CypherX is on fire!🔥"
+global.wm = process.env.GL_WM || "©TOXIC is on fire!🔥"
 // Add a watermark finished tasks because... every masterpiece needs a signature.
 
 //---------------------[ REPLIES ]-----------------------//
