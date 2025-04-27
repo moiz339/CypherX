@@ -1,7 +1,7 @@
 {
-  "name": "CypherX",
+  "name": "𓆩ᴛᴏxɪᴄ𓆪",
   "version": "1.5.0",
-  "description": "CypherX, the best WhatsApp Bot",
+  "description": "𓆩ᴛᴏxɪᴄ𓆪, the best WhatsApp Bot",
   "logo": "https://i.ibb.co/Q4QCHYd/copilot-image-1739572393172.jpg",
   "keywords": ["whatsapp", "bot", "md"],
   "repository": "https://github.com/Dark-Xploit/CypherX",
@@ -22,7 +22,7 @@
     },
     "BOT_NAME": {
       "description": "Enter your bot name here (CypherX is cool, but feel free to name it something quirky!)",
-      "value": "CypherX",
+      "value": "𓆩ᴛᴏxɪᴄ𓆪",
       "required": false
     },
     "OWNER_NUMBER": {
